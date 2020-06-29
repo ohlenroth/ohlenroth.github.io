@@ -10,3 +10,5 @@ hier hatte ich einige Beschreibung von Tarzan. Da habe ich wohl einen Fehler gem
 Zitat:
 ein langer Schrei im Wald 
 > Hahahaha Hahaha
+
+<img src="https://cdn.pixabay.com/photo/2018/03/16/09/04/silhouette-3230579_960_720.png"/>
