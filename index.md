@@ -8,4 +8,5 @@ hier hatte ich einige Beschreibung von Tarzan. Da habe ich wohl einen Fehler gem
 * er ist im Wald sehr schnell
 
 Zitat:
-ein langer Schrei im Wald \"Hahahaha\".
+ein langer Schrei im Wald 
+\"Hahahaha\"
