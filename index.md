@@ -9,4 +9,4 @@ hier hatte ich einige Beschreibung von Tarzan. Da habe ich wohl einen Fehler gem
 
 Zitat:
 ein langer Schrei im Wald 
-\*Hahahaha Hahaha\*
+> Hahahaha Hahaha
